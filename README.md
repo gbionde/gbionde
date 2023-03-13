@@ -17,7 +17,7 @@ const skills = {
   database: [MySQL, PostgreSQL, PL/SQL],
 };
 
-const os = {"pop_os", "windows-11"};
+const os = {"arch-linux", "windows-11"};
 
 ```
 
