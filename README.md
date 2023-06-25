@@ -16,10 +16,12 @@ const info = {
 };
 
 const skills = {
-  code: ["C#", "ReactJS", "TypeScript", "Java", "Dart", "C/C++"],
-  platforms: [".NET", "Flutter", "Android"],
-  concepts: ["Domain-Driven-Design", "REST-API", "GraphQL", "SOLID", "Clean-Code"],
-  database: ["MySQL", "PostgreSQL", "PL/SQL"],
+  languages: ["C#", "Java", "Dart", "C/C++"],
+  frontEnd: ["ReactJS", "Gatsby", "TypeScript", "styled-components"],
+  backEnd: [".NET", "Node.js"],
+  databases: ["MySQL", "PostgreSQL", "PL/SQL"],
+  concepts: ["Domain-Driven-Design", "REST API", "GraphQL", "SOLID", "Clean Code"],
+  mobile: ["Flutter", "Java-Android"],
 };
 
 const os = ["Arch-Linux", "Pop-OS", "Windows-11"];
