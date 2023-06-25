@@ -5,9 +5,9 @@
 <p><kbd> About me </kbd></p> 
 
 ```javascript
-// Welcome!
-// My name is Guilherme,
-// I am a full-stack developer who loves Arch Linux, UI/UX, and web development.
+// Welcome! 
+// My name is Guilherme, 🤓💻
+// I am a full-stack developer who loves Arch Linux, UI/UX, and web development. 
 
 const info = {
   name: "Guilherme",
