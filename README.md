@@ -7,7 +7,7 @@
 ```javascript
 // Welcome! 
 // My name is Guilherme, 🤓💻
-// I am a full-stack developer who loves Arch Linux, UI/UX, and web development. 
+// I am a full-stack developer who loves Arch Linux, UI/UX, and software development. 
 
 const info = {
   name: "Guilherme",
@@ -16,15 +16,14 @@ const info = {
 };
 
 const skills = {
-  languages: ["C#", "Java", "Dart", "C/C++"],
-  frontEnd: ["ReactJS", "Gatsby", "TypeScript", "styled-components"],
-  backEnd: [".NET", "Node.js"],
-  databases: ["MySQL", "PostgreSQL", "PL/SQL"],
-  concepts: ["Domain-Driven-Design", "REST API", "GraphQL", "SOLID", "Clean Code"],
-  mobile: ["Flutter", "Java-Android"],
+  "languages": ["csharp", "php", "java", "c"],
+  "frontend": ["reactJs", "gatsby", "typeScript"],
+  "devops": ["jenkins", "redis", "docker", "vagrant"],
+  "db": ["mysql", "pl/sql"],
+  "software": ["domain driven design", "clean architecture", "solid & clean code"],
 };
 
-const os = ["Arch-Linux", "QTile", "Windows-11"];
+const os = ["arch linux", "pop os", "windows 11"];
 ```
 
 <!-- Linguagens -->
