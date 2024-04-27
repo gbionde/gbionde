@@ -23,13 +23,16 @@ const skills = {
   "software": ["domain driven design", "clean architecture", "solid & clean code"],
 };
 
-const os = ["arch linux", "pop os", "windows 11"];
+const os = ["arch linux", "ubuntu", "pop os", "windows 11"];
 ```
 
 <!-- Linguagens -->
 <div> 
   <p><kbd> Currently working with: </kbd></p> 
   <img title="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
+  <img title="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+  <img title="laravel" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
+  <img title="csharp" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"/>
   <img title=".net core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
   <img title="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img title="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
